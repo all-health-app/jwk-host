@@ -10,7 +10,7 @@
             "dp": "EYHjDWnG7zqGADIH3HqLcN46WRGxG_x86G6fYKVOJldOgK4rtI92joA_hWoWNA4cRVnv8fBeUJ10FOdIRN0YSpln47-r1AcEqpV7HOzTb9AcAygn0oA7pwKA4dt148uYOJjI3WjJJKc-WnzLzO-B0cBnwjVNvuYxasXJMhG5FTU",
             "dq": "L8kifZA555RjRsfs_syMokqQq_9gh9elLncTzW_OIUOTnT1gUOaQpVbAiVpUK_SGtl09-UMxcoGLXTaZIa-5uGDuUpyO5So8un6ATAiWpKNg-rU1vi34zggUmJp_m8y8_LaHIvapZgGcbb0AhVrgxTbxHVDv-lBmmJYdNI0bUHc",
             "qi": "3GaiAB-NWkRtCKPEdjaUI8QjDLBHAz2VyizFmYW2_dffWpS_lCvHCFsF023p6nr3_HnFnwg3DtSld-9k8HoR3kLQ4F2qYyARnvWwrympvUsJnyroQNJaoRYpdGCanescpno6r6KZB1UQk_XoD4JwTNeQppUSPuusaS4TLY0fVfQ",
-            "kid": "b976b6ac-e0eb-41cf-a070-e9f87beef406",
+            "kid": "eCW_Platform_Sandbox",
             "alg": "RS384",
             "use": "sig",
             "key_ops": [
